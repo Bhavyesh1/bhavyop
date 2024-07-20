@@ -1,1 +1,1 @@
-highrise-bot-sdk @ git+https://github.com/itzvini/python-bot-sdk
+highrise-bot-sdk @ git+https://github.com/Bhavy123/python-bot-sdk

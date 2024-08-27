@@ -10,6 +10,7 @@ spotipy = "^2.24.0"
 googletrans = "^3.0.0"
 requests = "^2.32.3"
 flask = "^3.0.3"
+google-generativeai = "^0.7.2"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
